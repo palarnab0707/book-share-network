@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+.login-container{
+  max-width: 800px;
+  margin: 15%;
+  margin-left: 24%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
